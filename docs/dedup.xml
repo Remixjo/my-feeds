@@ -6,8 +6,15 @@
     <title>Dedup Feed</title>
     <link>https://remixjo.github.io/my-feeds/dedup.xml</link>
     <description>Deduplicated mix</description>
-    <lastBuildDate>Sun, 05 Oct 2025 22:11:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 22:17:46 GMT</lastBuildDate>
+
+    <!-- WebSub discovery: Hubs -->
+    <atom:link rel="hub" href="https://pubsubhubbub.superfeedr.com"/>
+    <atom:link rel="hub" href="https://hub.fivefilters.org/"/>
+
+    <!-- Self link -->
     <atom:link href="https://remixjo.github.io/my-feeds/dedup.xml" rel="self" type="application/rss+xml"/>
+
 
     <item>
       <title>6 tiny self-hosting tools that save me hours every week</title>
