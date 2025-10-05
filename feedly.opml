@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Jo subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+        <outline text="Lokale Nachrichten" title="Lokale Nachrichten">
+            <outline type="rss" text="Pressemitteilungen Tübingen" title="Pressemitteilungen Tübingen" xmlUrl="http://www.tuebingen.de/pressemitteilungen.xml" htmlUrl="https://www.tuebingen.de/presse"/>
+            <outline type="rss" text="Lokale Nachrichten aus Darmstadt und den Stadtteilen" title="Lokale Nachrichten aus Darmstadt und den Stadtteilen" xmlUrl="http://www.echo-online.de/lokales/darmstadt/index.rss" htmlUrl="https://www.echo-online.de"/>
+            <outline type="rss" text="hessenschau.de" title="hessenschau.de" xmlUrl="http://hessenschau.de/index.rss" htmlUrl="https://www.hessenschau.de/index.html"/>
+        </outline>
+        <outline text="Tech" title="Tech">
+            <outline type="rss" text="Golem.de" title="Golem.de" xmlUrl="http://www.golem.de/rss.php?feed=RSS1.0" htmlUrl="https://www.golem.de/"/>
+            <outline type="rss" text="Deskmodder.de" title="Deskmodder.de" xmlUrl="http://www.deskmodder.de/blog/feed/" htmlUrl="https://www.deskmodder.de/blog/"/>
+            <outline type="rss" text="heise online News" title="heise online News" xmlUrl="http://www.heise.de/newsticker/heise.rdf" htmlUrl="https://www.heise.de/"/>
+            <outline type="rss" text="XDA" title="XDA" xmlUrl="http://www.xda-developers.com/feed/" htmlUrl="https://www.xda-developers.com"/>
+            <outline type="rss" text="Fortinet Firmware Updates" title="Fortinet Firmware Updates" xmlUrl="http://pub.kb.fortinet.com/rss/firmware.xml" htmlUrl="http://support.fortinet.com/"/>
+            <outline type="rss" text="Caschys Blog" title="Caschys Blog" xmlUrl="http://stadt-bremerhaven.de/feed/" htmlUrl="https://stadt-bremerhaven.de"/>
+        </outline>
+        <outline text="Nachrichten" title="Nachrichten">
+            <outline type="rss" text="Reuters" title="Reuters" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChqUTb7kYRX8-EiaN3XFrSQ" htmlUrl="https://www.youtube.com/channel/UChqUTb7kYRX8-EiaN3XFrSQ"/>
+            <outline type="rss" text="Lifehacker" title="Lifehacker" xmlUrl="http://feeds.kinja.com/lifehacker/vip" htmlUrl="https://lifehacker.com/feed/rss"/>
+            <outline type="rss" text="manager magazin - Schlagzeilen" title="manager magazin - Schlagzeilen" xmlUrl="http://www.manager-magazin.de/news/rss/index.xml" htmlUrl="https://www.manager-magazin.de/"/>
+            <outline type="rss" text="World News | Reuters.com" title="World News | Reuters.com" xmlUrl="https://cdn.feedcontrol.net/8/1115-TvWAhu4G064WT.xml" htmlUrl="https://www.reuters.com/world"/>
+            <outline type="rss" text="SWR Aktuell Baden-Württemberg" title="SWR Aktuell Baden-Württemberg" xmlUrl="http://www.swr.de/export/rss/landesschau-aktuell/bw" htmlUrl="https://www.swr.de/swraktuell/baden-wuerttemberg/index.html"/>
+            <outline type="rss" text="DER SPIEGEL - Schlagzeilen – Tops" title="DER SPIEGEL - Schlagzeilen – Tops" xmlUrl="http://www.spiegel.de/schlagzeilen/tops/index.rss" htmlUrl="https://www.spiegel.de/"/>
+            <outline type="rss" text="Capital.de" title="Capital.de" xmlUrl="http://www.capital.de/rss" htmlUrl="https://www.capital.de/?utm_medium=standard&amp;utm_source=rss"/>
+        </outline>
+    </body>
+</opml>
